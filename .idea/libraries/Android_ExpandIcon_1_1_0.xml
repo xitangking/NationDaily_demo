@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Android-ExpandIcon-1.1.0">
+    <CLASSES>
+      <root url="jar://D:/Android/sdk/.android/build-cache/d5a5c35c036f9f9c866dc83737aa3997e9c13489/output/jars/classes.jar!/" />
+      <root url="file://D:/Android/sdk/.android/build-cache/d5a5c35c036f9f9c866dc83737aa3997e9c13489/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

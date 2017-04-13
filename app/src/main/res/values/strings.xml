@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NationDaily</string>
+    <string name="account_balance">Account Balance</string>
+    <string name="balance_currency">$</string>
+    <string name="title">坚持传统</string>
+    <string name="action_scan">Scan Chinese character</string>
+
+    <string name="jj_1">【简介】阿昌族主要居住在云南省德宏傣族景颇族自治州的陇川和梁河县。</string>
+    <string name="jj_2">【简介】白族主要聚居在云南省西部以洱海为中心的大理白族自治州。</string>
+    <string name="jj_3">【简介】保安族主要聚居在甘肃省积石山保安族东乡族撒拉族自治县。</string>
+    <string name="jj_4">【简介】布朗族是云南的独有民族之一，分布在云南省西部和西南部沿澜沧江中下游。</string>
+    <string name="jj_5">【简介】布依族主要聚居在贵州省黔西南两个布依族苗族自治州。</string>
+    <string name="jj_6">【简介】藏族是中华民族的重要一员，分布于辽阔的青藏高原。</string>
+    <string name="swipe_finger_up_and_down">2017-4-3</string>
+    <string name="click">公元221年</string>
+
+</resources>
